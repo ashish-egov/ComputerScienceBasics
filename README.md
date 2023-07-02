@@ -71,3 +71,41 @@
 -   Grace Hopper invented the first compiler, which allowed programmers to write code in a higher-level language that was then automatically translated into machine code.
 -   FORTRAN was the first high-level programming language, designed for scientific and engineering applications.
 -   COBOL was designed for business applications, while  BASIC  was designed for beginners.
+
+## First Programming Languages
+
+-   The  first programming languages  were developed in the 1950s and 1960s.
+-   Some of the earliest  programming languages  were  Fortran,  Lisp, and  COBOL.
+-   Fortran was designed for scientific and engineering applications, Lisp was designed for  artificial intelligence  research, and COBOL was designed for business applications.
+-   These languages were used to write programs that could be executed on computers, which were becoming more widely available at the time.
+
+## Programming Basics: Statements & Functions
+
+-   Programming is the process of writing code to tell a computer what to do.
+-   Programs are made up of statements, which are instructions that tell the computer what to do.
+-   Functions are reusable pieces of code that perform specific tasks.
+-   Variables are used to store data that can be used by the program.
+-   Conditional statements  allow the program to make decisions based on certain conditions.
+-   Loops allow the program to repeat certain actions until a condition is met.
+
+## Intro to Algorithms
+
+-   An algorithm is a set of instructions for solving a problem or performing a task.
+-   Algorithms are used in many areas, including computer science, mathematics, and engineering.
+-   There are many different algorithms for solving the same problem, and some are more efficient than others.
+-   The efficiency of an algorithm can be measured in terms of its runtime and  memory usage.
+-   Big O notation is used to describe the runtime of an algorithm.
+
+## Data Structures
+
+-   Data structures are ways of organizing and storing data in a computer program.
+-   Some common  data structures  include arrays,  linked lists, stacks, and queues.
+-   Each  data structure  has its own advantages and disadvantages, depending on the specific needs of the program.
+-   Algorithms often use data structures to efficiently process large amounts of data.
+
+## Alan Turing
+
+-   Alan Turing was a British mathematician and computer scientist who made important contributions to the development of computing and cryptography.
+-   During World War II, Turing worked on breaking  German codes  using a machine called the Bombe.
+-   After the war, Turing continued to work on computing and artificial intelligence research.
+-   Turing is widely regarded as one of the pioneers of modern computing, and his work laid the foundation for many of the technologies we use today.
