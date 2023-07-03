@@ -195,6 +195,12 @@
 -   Virtualization is a technique that allows multiple operating systems to run on a single physical computer.
 -   Virtualization is used to improve resource utilization, isolate applications, and provide better security and availability of services.
 
+
+### Cloud Computing
+
+-   Cloud computing  is a popular model for delivering  computing resources  over the internet.
+-   Cloud computing relies on virtualization and provides on-demand access to computing resources, such as servers, storage, and applications.
+
 ## Memory & Storage: Crash Course Computer Science #19
 
 -   Memory  and storage are both important components of a computer system.
@@ -220,8 +226,3 @@
 -   Lossy compression algorithms discard some of the original data when compressing it, which can reduce the quality of the compressed data.
 -   Common  compression algorithms include  ZIP,  GZIP, and  BZIP2  for  lossless compression, and  JPEG  and  MPEG  for  lossy compression.
 -   Compression can be used to reduce the size of files, such as images and videos, and to improve the performance of network transmissions.
-
-### Cloud Computing
-
--   Cloud computing  is a popular model for delivering  computing resources  over the internet.
--   Cloud computing relies on virtualization and provides on-demand access to computing resources, such as servers, storage, and applications.
