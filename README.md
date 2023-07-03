@@ -195,6 +195,32 @@
 -   Virtualization is a technique that allows multiple operating systems to run on a single physical computer.
 -   Virtualization is used to improve resource utilization, isolate applications, and provide better security and availability of services.
 
+## Memory & Storage: Crash Course Computer Science #19
+
+-   Memory  and storage are both important components of a computer system.
+-   Memory is used for short-term storage of data and instructions that the CPU needs to access quickly.
+-   Storage is used for long-term storage of data that needs to be saved for future use.
+-   Memory is typically volatile, meaning that it loses its contents when power is turned off, while storage is typically non-volatile and retains its contents even when power is off.
+-   RAM (Random Access Memory) is the most common type of memory used in computers, and it allows the CPU to access data quickly.
+-   ROM (Read-Only Memory) is a type of memory that is used to store firmware and other essential software that is required for the computer to function properly.
+
+## Files & File Systems:  Crash Course Computer  Science #20
+
+-   Files and file systems are used to organize and store data on a computer.
+-   A file is a collection of data that is stored on a storage device, such as a hard disk or solid-state drive.
+-   A  file system  is a software component that manages files and directories on a storage device.
+-   File systems use a  hierarchical directory structure  to organize files and directories.
+-   Common file systems include FAT, NTFS, and ext4.
+-   File systems also provide features such as file permissions, compression, and encryption.
+
+## Compression:  Crash  Course Computer Science #21
+
+-   Compression is the process of reducing the size of data to save storage space and improve transmission speed.
+-   Lossless compression algorithms preserve all of the original data when compressing it.
+-   Lossy compression algorithms discard some of the original data when compressing it, which can reduce the quality of the compressed data.
+-   Common  compression algorithms include  ZIP,  GZIP, and  BZIP2  for  lossless compression, and  JPEG  and  MPEG  for  lossy compression.
+-   Compression can be used to reduce the size of files, such as images and videos, and to improve the performance of network transmissions.
+
 ### Cloud Computing
 
 -   Cloud computing  is a popular model for delivering  computing resources  over the internet.
