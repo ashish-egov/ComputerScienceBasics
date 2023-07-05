@@ -226,3 +226,56 @@
 -   Lossy compression algorithms discard some of the original data when compressing it, which can reduce the quality of the compressed data.
 -   Common  compression algorithms include  ZIP,  GZIP, and  BZIP2  for  lossless compression, and  JPEG  and  MPEG  for  lossy compression.
 -   Compression can be used to reduce the size of files, such as images and videos, and to improve the performance of network transmissions.
+
+# Keyboards & Command Line Interfaces:
+
+## Introduction
+
+Keyboards are input devices that allow users to enter text and commands into a computer.  
+Command Line Interfaces (CLI) are text-based interfaces that allow users to interact with a computer by typing commands into a terminal.
+
+## Keyboards
+
+-   The QWERTY layout is the standard layout used by most keyboards today.
+-   Keyboards can be connected to a computer using various interfaces, such as USB, Bluetooth, or wireless.
+
+## Command Line Interfaces
+
+-   CLI is a powerful tool for developers and system administrators because it allows them to quickly perform tasks and automate processes.
+-   In a CLI, users interact with the operating system and can run various utilities and applications by typing commands and arguments.
+-   Some popular  CLI commands  include  `ls`  (list files and directories),  `cd`  (change directory), and  `mkdir`  (make directory).
+
+# Screens & 2D Graphics:
+
+## Introduction
+
+Screens are display devices that allow users to view digital content.  
+2D graphics refer to images or animations that are created using two-dimensional shapes and colors.
+
+## Screens
+
+-   Screens can be found in a variety of sizes and resolutions, from small smartphone screens to large, high-definition televisions.
+-   Display technologies used in screens include LCD, OLED, and plasma.
+
+## 2D Graphics
+
+-   In computer science,  2D graphics  are typically created using software libraries and frameworks such as OpenGL or DirectX.
+-   These libraries allow developers to create complex 2D graphics and animations that can be displayed on screens and other output devices.
+-   Some popular 2D graphics applications include  Adobe Photoshop  and GIMP.
+
+# The Cold  War and Consumerism:
+
+## Introduction
+
+The  Cold War  was a period of political tension between the US and the Soviet Union that lasted from the end of World War II until the early 1990s.  
+Consumerism refers to the culture of buying and consuming goods and services.
+
+## The Cold War
+
+-   Both the US and the Soviet Union invested heavily in military technology and research during  the Cold War.
+-   This led to the development of many important technologies such as the internet, GPS, and satellite communications.
+
+## Consumerism
+
+-   The rise of consumerism led to the development of new technologies and products that were designed to meet the needs and wants of consumers.
+-   Personal computers, video game consoles, and  home entertainment systems  are some examples of technologies that were developed during this period.
